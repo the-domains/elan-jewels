@@ -1,0 +1,28 @@
+name: Elan Jewels
+favicon: null
+layout_spectrum: 0.4850537849124521
+typography_spectrum: 0.2838415624573827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5377317871898413
+  lightness: 0.831710308091715
+  saturation: 0.7228281742427498
+  rhythmicContrast: 0.39661661838181317
+purpose: []
